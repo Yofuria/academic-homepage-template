@@ -1,0 +1,27 @@
+{
+  "name": "Your Name",
+  "nativeName": "你的姓名",
+  "role": "PhD Student",
+  "description": "Your Name — research interests, publications, projects, and academic experience.",
+  "affiliations": [
+    "Example University",
+    "Research Intern @ Example AI Lab"
+  ],
+  "email": "you@example.com",
+  "location": "City, Country",
+  "portrait": "assets/portrait.svg",
+  "links": [
+    {
+      "label": "Google Scholar",
+      "url": "https://scholar.google.com/"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/"
+    },
+    {
+      "label": "Hugging Face",
+      "url": "https://huggingface.co/"
+    }
+  ]
+}

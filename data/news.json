@@ -1,0 +1,27 @@
+[
+  {
+    "date": "2026.10",
+    "content": "Example project released.",
+    "links": [
+      {
+        "text": "Project page",
+        "url": "projects/example/"
+      }
+    ]
+  },
+  {
+    "date": "2026.06",
+    "content": "Example workshop paper accepted.",
+    "links": []
+  },
+  {
+    "date": "2026.01",
+    "content": "Example research paper accepted.",
+    "links": []
+  },
+  {
+    "date": "2025.09",
+    "content": "Started a new research collaboration.",
+    "links": []
+  }
+]

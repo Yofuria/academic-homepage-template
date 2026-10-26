@@ -1,0 +1,83 @@
+[
+  {
+    "title": "Example Paper: Reliable Evaluation for Learning Systems",
+    "authors": "<strong>Your Name*</strong>, Coauthor One*, Coauthor Two",
+    "type": "accepted",
+    "isFirstAuthor": true,
+    "showOnHomepage": true,
+    "featuredOrder": 1,
+    "venue": "ICLR 2026",
+    "year": "2026",
+    "tags": [
+      {
+        "text": "Paper",
+        "link": "#"
+      },
+      {
+        "text": "Code",
+        "link": "#"
+      },
+      {
+        "text": "Project Page",
+        "link": "projects/example/"
+      }
+    ]
+  },
+  {
+    "title": "Example Paper: A Reusable Research Workflow",
+    "authors": "Coauthor One, <strong>Your Name</strong>, Coauthor Two",
+    "type": "accepted",
+    "isFirstAuthor": false,
+    "showOnHomepage": true,
+    "featuredOrder": 2,
+    "venue": "NeurIPS 2026 Example Workshop",
+    "venueFullName": "Example Research Workshop",
+    "venueShortName": "NeurIPS'26",
+    "year": "2026",
+    "tags": [
+      {
+        "text": "Paper",
+        "link": "#"
+      },
+      {
+        "text": "Workshop",
+        "link": "#"
+      }
+    ]
+  },
+  {
+    "title": "Example Preprint: Learning Across Changing Tasks",
+    "authors": "<strong>Your Name</strong>, Coauthor One",
+    "type": "preprint",
+    "isFirstAuthor": true,
+    "showOnHomepage": true,
+    "featuredOrder": 3,
+    "venue": "Under Review",
+    "year": "2026",
+    "tags": [
+      {
+        "text": "Paper",
+        "link": "#"
+      },
+      {
+        "text": "Project Page",
+        "link": "projects/example/"
+      }
+    ]
+  },
+  {
+    "title": "Example Paper: An Earlier Research Direction",
+    "authors": "Coauthor One, <strong>Your Name</strong>",
+    "type": "accepted",
+    "isFirstAuthor": false,
+    "showOnHomepage": false,
+    "venue": "EMNLP 2025",
+    "year": "2025",
+    "tags": [
+      {
+        "text": "Paper",
+        "link": "#"
+      }
+    ]
+  }
+]
